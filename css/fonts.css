@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Interstate;
+    /*src: url("../fonts/Interstate-BoldCompressed.woff");*/
+    src: url("../fonts/Interstate-BoldCompressed.woff2");
+    font-weight: bold;   
+}
+@font-face{
+    font-family: Interstate;
+    src: url("../fonts/InterstateLightCompressed.woff");
+   /* src: url("../fonts/InterstateLightCompressed.woff2");*/
+    font-weight: lighter;   
+}
